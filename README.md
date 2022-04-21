@@ -4,7 +4,7 @@ PW = gg.prompt({'🔒 Input password: '},{[1]=''},{[1]='MR HACKER YT'})
 if not PW then return
 end 
 if PW[1] == "" then gg.alert("😡 SUBSCRIBE MR HACKER YT😡") os.exit() end
-if PW[1] =="1234" then 
+if PW[1] =="2345" then 
  gg.toast('CREDIT INDIAN@ LEGION')
 else 
  gg.alert("MADRCHOD PASWARD SHI DAAL") return end
