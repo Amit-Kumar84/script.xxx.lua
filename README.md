@@ -86,7 +86,7 @@ G .. "SCRIPT V1 【⚠️UNSAFE⚠️】" .. G,
 G .. "SCRIPT V2 【☢️SAFE☢️】" .. G,
 G .. "SCPRIT V3【☣️SAFE☣️】" .. G,
 G .. "Exit" .. G,
-}, nil, os.date("\n⏰⟮ %d/%m/%y | %X ⟯ ⏰"))
+}, nil, os.date("⏰⟮ %d/%m/%y | %X ⟯ ⏰"))
 if HM == 1 then Home() end
 if HM == 2 then Home2() end
 if HM == 3 then Home3() end
@@ -98,7 +98,7 @@ SN8 = gg.choice({
 "Clear Report 🇮🇳",
 "Bypass V1 🇮🇳",
 "💋Back💋",
-},nil, os.date("\n⏰⟮ %d/%m/%y | %X ⟯ ⏰\n"))
+},nil, os.date("⏰⟮ %d/%m/%y | %X ⟯ ⏰\n"))
 if SN8 == 1 then X1() end
 if SN8 == 2 then X2() end
 if SN8 == 3 then HOME() end
@@ -140,7 +140,7 @@ function Home4()
     "🧱Forced Construction",
     "💉Anti Dead",
     "Bᴀᴄᴋ"
-  }, nil, os.date("\n⏰⟮ %d/%m/%y | %X ⟯ ⏰"))
+  }, nil, os.date("⏰⟮ %d/%m/%y | %X ⟯ ⏰"))
   if menu == nil then
   else
     if menu[1] == true then
